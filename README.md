@@ -5,4 +5,7 @@
 -  Games (and gamedev occasionally) I've had as a hobby since the era of 8-bit home computers.
 -  Working as a solution architect for Reflector Oy
 
+
   ![Reflector logo with AI generated content](refe_gif2.gif)
+
+(Reflector logo generated using Stable diffusion + ControlNet)
