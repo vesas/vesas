@@ -8,4 +8,4 @@
 
   ![Reflector logo with AI generated content](refe_gif2.gif)
 
-(Reflector logo generated using Stable diffusion + ControlNet)
+Reflector logo generated using Stable diffusion + ControlNet
