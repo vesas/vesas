@@ -1,4 +1,4 @@
 ### Hi there 👋
 
--  These public repos are personal projects, it's not possible to publish anything work related.
+-  These public repos are personal projects.
 -  Working as a solution architect for Reflector Oy
